@@ -1,7 +1,7 @@
 # Tab Speaker
 ## What is this?
 タブごとに音量を調整できるGoogle Chrome拡張機能です。
-現在Chromeウェブストアの公開審査待ちです。試用するにはGoogle Chromeを**デベロッパー**モードにする必要があります。
+現在Chromeウェブストアの公開審査待ちです。使用するにはGoogle Chromeを**デベロッパー**モードにする必要があります。
 
 ## Link
 審査待ち
